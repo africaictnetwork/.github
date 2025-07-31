@@ -1,6 +1,6 @@
-# 🌍 Africa ICT Network
+# 🌍 AFRICA ICT & CS NETWORKS
 
-Welcome to the official GitHub Organization of **Africa ICT Network** — a growing community of tech enthusiasts, developers, and innovators across the African continent.
+Welcome to the official GitHub Organization of **AFRICA ICT & CS NETWORKS** — a growing community of tech enthusiasts, developers, and innovators across the African continent.
 
 ## 🚀 Our Mission
 To empower African communities through accessible, inclusive, and impactful technology solutions. We collaborate, build, and deploy digital projects that solve real-world challenges.
