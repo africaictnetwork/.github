@@ -1,30 +1,64 @@
-# 🌍 AFRICA ICT & CS NETWORKS
+<!-- org-profile-readme -->
 
-Welcome to the official GitHub Organization of **AFRICA ICT & CS NETWORKS** — a growing community of tech enthusiasts, developers, and innovators across the African continent.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/223937537?s=200&v=4" alt="Africa ICT & CS Network Logo" width="160" />
+</p>
 
-## 🚀 Our Mission
-To empower African communities through accessible, inclusive, and impactful technology solutions. We collaborate, build, and deploy digital projects that solve real-world challenges.
+<h1 align="center">🌍 AFRICA ICT & CS NETWORKS</h1>
 
-## 💡 What We Do
-- Build open-source tools for community development
-- Mentor and train young developers
-- Contribute to digital inclusion through ICT
-- Host community-driven events and hackathons
-- Support innovation in education, agriculture, health, and governance
+<p align="center">
+  Empowering Africa through technology — one project, one line of code at a time.
+</p>
 
-## 👥 Who We Are
-Africa ICT Network is a diverse network of developers, designers, researchers, and tech leaders committed to building Africa’s digital future.
-
-## 📬 Get Involved
-Whether you're a student, professional, or enthusiast:
-- **Join our GitHub organization**
-- **Contribute to our projects**
-- **Share your ideas and collaborate**
-
-## 📫 Contact Us
-📧 Email: [africa.ict.cs.network@gmail.com](mailto:africa.ict.cs.network@gmail.com)  
-🌐 More platforms coming soon!
+<p align="center">
+  <a href="mailto:africa.ict.cs.network@gmail.com">
+    <img src="https://img.shields.io/badge/email-africa.ict.cs.network@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email Badge" />
+  </a>
+  <a href="https://github.com/africaictnetwork">
+    <img src="https://img.shields.io/github/followers/africaictnetwork?label=Follow&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+</p>
 
 ---
 
-Together, let's build Africa's future — one commit at a time. 💻🌍
+## 🚀 Our Mission
+
+To bridge the digital divide by providing accessible, inclusive, and impactful technology solutions.  
+We collaborate, build, and deploy open-source digital tools that solve real-world challenges across the African continent.
+
+---
+
+## 💡 What We Do
+
+- 🌱 Build open-source tools for community development  
+- 👨🏽‍💻 Mentor and upskill developers  
+- 🧠 Support innovation in education, health, agriculture, and governance  
+- 🌐 Drive ICT adoption and digital inclusion  
+- 💬 Host community-led events, discussions, and hackathons  
+
+---
+
+## 👥 Who We Are
+
+Africa ICT & CS Network is a growing network of tech enthusiasts, developers, researchers, and change-makers united by a shared mission: building Africa’s digital future.
+
+---
+
+## 🤝 Get Involved
+
+Whether you're a student, professional, or curious enthusiast:
+- 🌟 **Join the GitHub organization**
+- 🔧 **Contribute to our projects**
+- 💬 **Propose ideas and improvements**
+- 🚀 **Collaborate and grow with the community**
+
+---
+
+## 📫 Contact Us
+
+📧 Email: [africa.ict.cs.network@gmail.com](mailto:africa.ict.cs.network@gmail.com)  
+🌍 More platforms coming soon!
+
+---
+
+<p align="center">🇰🇪 🇳🇬 🇬🇭 🇹🇿 🇿🇦 🇷🇼 — Together, we code for Africa — one commit at a time. 💻🌍</p>
